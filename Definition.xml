@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<ExtensionObject Label="Aster Plot"> 
+	<Dimension Label="Dimension" Initial="" />
+	
+	<Measurement Label="Angle Weight" Initial=""/>
+	<Measurement Label="Radius" Initial=""/>
+	<Measurement Label="Fill Color" Initial=""/>
+	<Measurement Label="Reference Line 1" Initial=""/>
+	<Measurement Label="Reference Line 2" Initial=""/>
+    <Initiate Name="Caption.Text" value="Aster Plot" /> 
+</ExtensionObject>
